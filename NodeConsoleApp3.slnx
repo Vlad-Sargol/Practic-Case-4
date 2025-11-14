@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/практика 4/">
+    <File Path="index.html" />
+    <File Path="script.js" />
+    <File Path="style.css" />
+  </Folder>
+  <Project Path="NodeConsoleApp3.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+</Solution>
